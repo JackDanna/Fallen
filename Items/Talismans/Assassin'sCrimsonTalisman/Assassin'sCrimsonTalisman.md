@@ -4,10 +4,10 @@
 
 |             Name             | # |  Effects  | LB | Value | Description                                             |
 | :--------------------------: | :-: | :--------: | :-: | :---: | ------------------------------------------------------- |
-| Assassin's Crimson Talisman | 1 | Life Leech | 0.2 |   ?   | An assassin's dagger, misshapen and stained in crimson. |
+| Assassin's Crimson Talisman | 1 | Life Leech | 0.2 |   ?   | An assassin's dagger, misshapen and stained in crimson. |
 
 ## Effects
 
 | Name       |                     Description                     |   Duration   |            Source            |
 | :--------- | :------------------------------------------: | :-----------: | :--------------------------: |
-| Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous | Assassin's Crimson Talisman |
+| Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous | Assassin's Crimson Talisman |

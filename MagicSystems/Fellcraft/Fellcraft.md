@@ -43,9 +43,9 @@ Fellcrafts that aren't natural to ones genes can be gain by consuming the spinal
 
 |              Magic Skill Name              |        Required Magic Skills        |             Damage Types             | Melee Capable | Range Capable |
 | :----------------------------------------: | :---------------------------------: | :----------------------------------: | :-----------: | :-----------: |
-| [Blizzardcraft](./Fellcraft.md#blizzardcraft) |  Cryocraft, Galecraft, Hydrocraft  |  Cold, Slash, Bludgeon, Shockwave  |     TRUE     |     TRUE     |
+| [Blizzardcraft](./Fellcraft.md#blizzardcraft) |  Cryocraft, Galecraft, Hydrocraft  |  Cold, Slash, Bludgeon, Shockwave  |     TRUE     |     TRUE     |
 |    [Magmacraft](./Fellcraft.md#magmacraft)    |       Terracraft, Blazecraft       |  Fire, Slash, Bludgeon, Hew, Pierce  |     TRUE     |     TRUE     |
-|   [Plasmacraft](./Fellcraft.md#plasmacraft)   |        Blazecraft, Galecraft        |  Fire, Slash, Bludgeon, Shockwave  |     TRUE     |     TRUE     |
+|   [Plasmacraft](./Fellcraft.md#plasmacraft)   |        Blazecraft, Galecraft        |  Fire, Slash, Bludgeon, Shockwave  |     TRUE     |     TRUE     |
 |    [Stormcraft](./Fellcraft.md#stormcraft)    | Electrocraft, Galecraft, Hydrocraft | Electric, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
 
 ## Fellcraft Tree

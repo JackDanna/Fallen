@@ -22,16 +22,16 @@
 | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------: | :------: | :----------------------------------------------: |
 |     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)     |                  33 lb                  |          |                    Equipment                    |
 |     [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)     |                 400 lb                 |          |        +50 lbs Carry Weight per Lift dice        |
-| [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light |   -0d to STR/RFX governed Dice Pools   |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+| [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light |   -0d to STR/RFX governed Dice Pools   |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                    |                                        |          |                                                  |
 |              [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)              |                    0                    |          |                  Armor & Shield                  |
 |                                                                                                                    |                                        |          |                                                  |
 |                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Large                        |         10x10 ft on battle map.         |          |                                                  |
-|             [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial             |                  70 ft                  |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                 [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |                  35 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                  25 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|             [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial             |                  70 ft                  |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                 [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |                  35 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                  25 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                    |                                        |          |                                                  |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       | -0d to STR/RFX/INT governed Dice Pools. |          |                 Damage Received                 |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       | -0d to STR/RFX/INT governed Dice Pools. |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

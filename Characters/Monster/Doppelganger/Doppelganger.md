@@ -23,13 +23,13 @@
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
 |                    [Language](./../../../Languages/Languages.md): Babelish                    |                 Can speak Babelish.                 |          |                                                  |
 |                                                                                            |                                                      |          |                                                  |
-|  [Medium Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver  | +2 to the level of injury received from damage type. |          |                    Fellblood                    |
+|  [Medium Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver  | +2 to the level of injury received from damage type. |          |                    Fellblood                    |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense) |                          0                          |          |                  Armor & Shield                  |
 |                                                                                            |                                                      |          |                                                  |
 |           [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium           |                5x5 ft on battle map.                |          |                                                  |
-| [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial |                        50 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim    |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+| [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial |                        50 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim    |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                            |                                                      |          |                                                  |
 |      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood      |                         8/8                         |          |       Vocation/Magic Governing Core Skill       |
 |          [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None          |       -0d to STR/RFX/INT governed Dice Pools.       |          |                 Damage Received                 |
@@ -93,9 +93,9 @@
 
 |     Name     |                                   Effect                                   | Magic<br />Resource |
 | :-----------: | :-------------------------------------------------------------------------: | :-----------------: |
-| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
-| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
-| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
+| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
+| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
+| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
 ## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
 

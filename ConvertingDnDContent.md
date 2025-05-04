@@ -15,11 +15,11 @@ Luckily the damage types line up very nicely with DnD damage types.
 
 ## DnD Spells to Fogent Spells
 
-| DnD Spell Level | Fogent Spell<br />Challenge Level |
+| DnD Spell Level | Fogent Spell<br />Challenge Level |
 | --------------- | ---------------------------------- |
 | Cantrip         | 0                                  |
-| 1st - 2nd      | 1 - 2                              |
-| 3rd - 4th      | 3 - 4                              |
+| 1st - 2nd      | 1 - 2                              |
+| 3rd - 4th      | 3 - 4                              |
 | 5th - 6th       | 5 - 6                              |
 | 7th - 8th       | 7 - 8                              |
 | 9th             | 9                                  |

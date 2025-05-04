@@ -15,7 +15,7 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT} | 1 | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 5d6 |
+| Fellcaster {STR, RFX, INT} | 1 | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 5d6 |
 | :-------------------------: | :-: | :-: | -------------------------------------------------------- | :-------: | --- |
 |  Polycraft {STR, RFX, INT}  | 1 | 5d6 | Metallurgy {INT}                                         | Inherited | 4d6 |
 | Toxincraft {STR, RFX, INT} | -1 | 3d6 | Tool making / repair {STR, RFX, INT}                     | Inherited | 5d6 |
@@ -30,17 +30,17 @@
 |                                Physical Defense Level                                |                    Phy. Def. 2.00                    |          |                                                                  Carapace                                                                  |
 |                                     Medium Size                                     |                5x5 ft on battle map.                |          |                                                                                                                                            |
 |                                  Language: Babelish                                  |                 Can speak Babelish.                 |          |                                                                                                                                            |
-|                                  Language: Kikishi                                  |                  Can speak Kikishi                  |          |                                                                                                                                            |
+|                                  Language: Kikishi                                  |                  Can speak Kikishi                  |          |                                                                                                                                            |
 |                            Disabling: Incapable of Lying                            |               Can't lie to royal kiki.               |          |                     Worker status in the hive. (He knows that royals can easily compel him to tell the truth anyway.)                     |
 |                     Disabling: Can't read or solve fine puzzles.                     |          Sees fine detail in large pixels.          |          |                                                   Compound eyes (Multi lense bug eyes).                                                   |
 | Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |               Sees well in dim light.               |          |                                              Underground hive dweller species, compound eyes.                                              |
 |                               Racial feature: Antennae                               |          Good sense of smell and pheromone.          |          |                                                     Underground hive dweller species.                                                     |
 |                                   Equipment Weight                                   |                        26 LB                        |          |                                                                 Equipment                                                                 |
-|                                     Carry Weight                                     |                        160 lb                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|                                 Weight Class: Light                                 |          -0d to STR/RFX governed Dice Pools          |          |                                               0% =< Equipment Weight <= 25% of Carry Weight                                               |
+|                                     Carry Weight                                     |                        160 lb                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|                                 Weight Class: Light                                 |          -0d to STR/RFX governed Dice Pools          |          |                                               0% =< Equipment Weight <= 25% of Carry Weight                                               |
 |                               Terrestrial Movement Speed                               |                        30 ft                        |          |                                           50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
-|                                  Swim Movement Speed                                  |                        15 ft                        |          |                                               +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
-|                                  Climb Movement Speed                                  |                        15 ft                        |          |                                               +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
+|                                  Swim Movement Speed                                  |                        15 ft                        |          |                                               +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
+|                                  Climb Movement Speed                                  |                        15 ft                        |          |                                               +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
 
 ## Combat Rolls
 

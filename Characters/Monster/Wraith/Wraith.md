@@ -14,24 +14,24 @@
 
 |    Spirit    | RFX, INT | 2 | 7d6 |
 | :-----------: | :------: | :-: | :-: |
-| Spirit Magic | RFX, INT | 2 | 7d6 |
+| Spirit Magic | RFX, INT | 2 | 7d6 |
 | Shadow Magic | RFX, INT | 2 | 7d6 |
 
 ## Effects
 
 |                                                               Name                                                               |                                                          Description                                                          | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                                   [Language](./../../../Languages/Languages.md): Alive Language                                   |                                         Can speak language it knew while alive.                                         |          |                                                  |
+|                                   [Language](./../../../Languages/Languages.md): Alive Language                                   |                                         Can speak language it knew while alive.                                         |          |                                                  |
 |                                                         Incorporeal Form                                                         |                   Can move through physical objects and creatures as if they were difficult terrain.                   |          |                                                  |
 |                         [Darkvision](./../../../../../CoreRules/AdvancedRules/VisionAndLight.md#darkvision)                         | Within 60 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color. |          |                                                  |
 |                                                                                                                                  |                                                                                                                        |          |                                                  |
 |                    [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)                    |                                                            0                                                            |          |                  Armor & Shield                  |
 |                 [Complete Resistance](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Non-Magical                 |                                   Negate all victory levels received from damage source.                                   |          |                                                  |
 | [Condition](./../../../../../CoreRules/CombatRules/Conditions.md) Immunities:<br />Charmed, Exhaustion, Paralyzed, Petrified, Prone |                                    Character is immune to the specified conditions.                                    |          |                                                  |
-|                      [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                      |                                 +1 to the level of injury received from damage source.                                 |          |                                                  |
+|                      [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                      |                                 +1 to the level of injury received from damage source.                                 |          |                                                  |
 |                                                                                                                                  |                                                                                                                        |          |                                                  |
 |                              [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                              |                                                  5x5 ft on battle map.                                                  |          |                                                  |
-|                      [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Flight                      |                                                          60 ft                                                          |          | +15 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                      [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Flight                      |                                                          60 ft                                                          |          | +15 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |                                                                                                                                  |                                                                                                                        |          |                                                  |
 |                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Spiritual Power                      |                                                          19/19                                                          |          |       Vocation/Magic Governing Core Skill       |
 |                             [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                             |                                         -0d to STR/RFX/INT governed Dice Pools.                                         |          |                 Damage Received                 |
@@ -95,6 +95,6 @@
 
 |     Name     | Class |                                   Effect                                   |
 | :-----------: | :----: | :-------------------------------------------------------------------------: |
-| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
-| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
-| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
+| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
+| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
+| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |

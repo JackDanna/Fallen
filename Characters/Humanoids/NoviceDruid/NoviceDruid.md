@@ -27,16 +27,16 @@
 |                                                                                                                    |                                        |          |                                                  |
 |     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)     |                  16 lb                  |          |                    Equipment                    |
 |     [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)     |                 150 lb                 |          |        +50 lbs Carry Weight per Lift dice        |
-| [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light |   -0d to STR/RFX governed Dice Pools   |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+| [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light |   -0d to STR/RFX governed Dice Pools   |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                    |                                        |          |                                                  |
 |              [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)              |                    2                    |          |                  Armor & Shield                  |
 |                                                                                                                    |                                        |          |                                                  |
 |                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |          5x5 ft on battle map.          |          |                                                  |
-|             [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial             |                  30 ft                  |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                 [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|             [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial             |                  30 ft                  |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                 [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                    |                                        |          |                                                  |
-|              [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection              |                   5/5                   |          |                Druid/Will Level                |
+|              [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection              |                   5/5                   |          |                Druid/Will Level                |
 |                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       | -0d to STR/RFX/INT governed Dice Pools. |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
@@ -105,9 +105,9 @@
 
 |     Name     |                                   Effect                                   | Magic<br />Resource |
 | :-----------: | :-------------------------------------------------------------------------: | :-----------------: |
-| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
-| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
-| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
+| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
+| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
+| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
