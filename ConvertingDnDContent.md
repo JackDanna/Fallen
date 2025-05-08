@@ -16,13 +16,13 @@ Luckily the damage types line up very nicely with DnD damage types.
 ## DnD Spells to Fogent Spells
 
 | DnD Spell Level | Fogent Spell<br />Challenge Level |
-| --------------- | ---------------------------------- |
-| Cantrip         | 0                                  |
-| 1st - 2nd      | 1 - 2                              |
-| 3rd - 4th      | 3 - 4                              |
-| 5th - 6th       | 5 - 6                              |
-| 7th - 8th       | 7 - 8                              |
-| 9th             | 9                                  |
+| :-------------: | :-------------------------------: |
+|     Cantrip     |                 0                 |
+|    1st - 2nd    |               1 - 2               |
+|    3rd - 4th    |               3 - 4               |
+|    5th - 6th    |               5 - 6               |
+|    7th - 8th    |               7 - 8               |
+|       9th       |                 9                 |
 
 ### DnD rarity to Fogent Item Tier
 
@@ -60,7 +60,7 @@ Luckily the damage types line up very nicely with DnD damage types.
 - Dexterity -> RFX
 - Intelligence -> INT
 - Wisdom -> Will
-- Charisma -> Communication
+- Charisma -> CHA
 - If a character is small or large, additional scaling up or down is employed
 
 ### DnD Skill to Fogent Skill conversion
@@ -68,10 +68,11 @@ Luckily the damage types line up very nicely with DnD damage types.
 - Athletics -> Athletics, Lift, Climb
 - Acrobatics, Slieght of Hand -> Dexterity
 - Stealth -> Stealth
-- Arcana, History, Investigation, Nature, Religion -> General Knowledge
-- Animal Handling, Survival -> Survival Vocational Skills or Gen. Knowledge
-- Deception, Intimidation, Performance, Persuasion, Insight -> Communication
-- Performance -> Performance Vocational Skill
+- Arcana, History, Nature, Religion -> Knowledge
+- Invetigation, Insight -> Logic
+- Animal Handling, Survival -> Survival Vocational Skills or Knowledge
+- Deception, Intimidation, Persuasion -> Deception, Intimidation, Persuasion
+- Performance -> Performance Vocational Skills
 
 ### DnD skill Modifier to Fogent Skill Level:
 

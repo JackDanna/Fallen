@@ -4,61 +4,61 @@
 
 ## Attributes and Core Skills
 
-| STR          | 0 |    | RFX          | 2 |    | INT               | 0 |    |
-| ------------ | :-: | :-: | ------------ | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics    | 2 | 5d6 | Dexterity    | 0 | 5d6 | Communication     | 0 | 3d6 |
-| (Deprecated) | 0 | 3d6 | Perception   | 2 | 7d6 | General Knowledge | 0 | 3d6 |
-| Endurance    | 0 | 3d6 | (Deprecated) | 1 | 6d6 | (Deprecated)      | 0 | 3d6 |
-| Lift         | 0 | 3d6 | Stealth      | 0 | 5d6 | Will              | 0 | 3d6 |
+| STR          |   0   |       | RFX          |   2   |       | INT               |   0   |       |
+| ------------ | :---: | :---: | ------------ | :---: | :---: | ----------------- | :---: | :---: |
+| Athletics    |   2   |  5d6  | Dexterity    |   0   |  5d6  | (Deprecated)    |   0   |  3d6  |
+| (Deprecated) |   0   |  3d6  | Perception   |   2   |  7d6  | (Deprecated) |   0   |  3d6  |
+| Endurance    |   0   |  3d6  | (Deprecated) |   1   |  6d6  | (Deprecated)      |   0   |  3d6  |
+| Lift         |   0   |  3d6  | Stealth      |   0   |  5d6  | Will              |   0   |  3d6  |
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}                  | 3 | 8d6 | Brightsmith {STR, RFX, INT} | 2  | 7d6 |
-| ---------------------------- | :-: | :-: | --------------------------- | -- | --- |
-| Medium Melee {STR, RFX, INT} | 3 | 8d6 | Radiance {STR, RFX, INT}    | 2  | 7d6 |
-|                              | 0 | 3d6 | Blessing {STR, RFX, INT}    | -1 | 4d6 |
-|                              | 0 | 3d6 | Additional Trick            | -1 | 4d6 |
+| Guard {RFX}                  |   3   |  8d6  | Brightsmith {STR, RFX, INT} | 2   | 7d6 |
+| ---------------------------- | :---: | :---: | --------------------------- | --- | --- |
+| Medium Melee {STR, RFX, INT} |   3   |  8d6  | Radiance {STR, RFX, INT}    | 2   | 7d6 |
+|                              |   0   |  3d6  | Blessing {STR, RFX, INT}    | -1  | 4d6 |
+|                              |   0   |  3d6  | Additional Trick            | -1  | 4d6 |
 
 ## Effects
 
-|                Name                |                            Effect                            | Duration |                      Source                      |
-| :--------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
-|       Minor Silver Weakness       |     +1 to the level of injury received from damage type.     |          |                    Fellblood                    |
-|       Physical Defense Level       |                               3                               |          |                  Armor & Shield                  |
-|            Medium Size            |                     5x5 ft on battle map.                     |          |                                                  |
-|         Language: Babelish         |                      Can speak Babelish.                      |          |                                                  |
-|  Disabling: Incontrollable Grief  | Overwhelming grief that is triggered reminder of past trauma. |          |                                                  |
-| Disabling: Bright Lord's Influence |    Character is influenced by forces beyond their control.    |          |                                                  |
+|                Name                |                            Effect                             | Duration |                     Source                      |
+| :--------------------------------: | :-----------------------------------------------------------: | :------: | :---------------------------------------------: |
+|       Minor Silver Weakness        |     +1 to the level of injury received from damage type.      |          |                    Fellblood                    |
+|       Physical Defense Level       |                               3                               |          |                 Armor & Shield                  |
+|            Medium Size             |                     5x5 ft on battle map.                     |          |                                                 |
+|         Language: Babelish         |                      Can speak Babelish.                      |          |                                                 |
+|  Disabling: Incontrollable Grief   | Overwhelming grief that is triggered reminder of past trauma. |          |                                                 |
+| Disabling: Bright Lord's Influence |    Character is influenced by forces beyond their control.    |          |                                                 |
 |          Equipment Weight          |                            25.1 lb                            |          |                    Equipment                    |
-|            Carry Weight            |                            120 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
-|        Weight Class: Light        |              -0d to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|      Terrestrial Movement Speed      |                             50 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|         Swim Movement Speed         |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         Climb Movement Speed         |                             15 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|            Carry Weight            |                            120 lb                             |          |       +50 lbs Carry Weight per Lift dice        |
+|        Weight Class: Light         |              -0d to STR/RFX governed Dice Pools               |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|     Terrestrial Movement Speed     |                             50 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|        Swim Movement Speed         |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|        Climb Movement Speed        |                             15 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 
 ## Combat Rolls
 
-|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
-| :-------------------------: | :--------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------: | :-----------------: | :-----------------: |
-|   Radiance - Melee Trick   |     2d8, 5d6     |                |                  |      0      |  Melee  |      Radiant      |        Swift        |                    |        None        |
-|   Radiance - Ranged Trick   |     2d8, 5d6     |                |                  |      0      | Extended |      Radiant      |       Steady       |                    |        None        |
-|      Radiance - Melee      |     2d8, 6d6     |                |                  |      2      |  Melee  |      Radiant      |        Swift        |                    |    1 (Fellblood)    |
-|      Radiance - Ranged      |     2d8, 6d6     |                |                  |      1      | Extended |      Radiant      |       Steady       |                    |    1 (Fellblood)    |
-|       Radiance - Cone       |     2d8, 6d6     |                |                  |      2      | Extended |      Radiant      |          1          |        Cone        |    1 (Fellblood)    |
-|      Radiance - Reach      |     2d8, 6d6     |                |                  |      2      |  Reach  |      Radiant      |        Swift        |                    |    1 (Fellblood)    |
-|        Radiance - 1        |     2d8, 7d6     |                |                  |      2      | Extended |      Radiant      |          1          |                    |    1 (Fellblood)    |
-|      Radiance - Sphere      |     2d8, 7d6     |                |                  |      3      | Extended |      Radiant      |          1          |       Sphere       |    2 (Fellblood)    |
-|   Blessing - Melee Trick   |       4d6       |                |                  |      0      |  Melee  |                  |        Swift        |                    |        None        |
-|   Blessing - Ranged Trick   |       4d6       |                |                  |      0      |  Close  |                  |       Steady       |                    |        None        |
-|   Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded)   | 9d6<br />(+1d6) |      None      | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |        Swift        |        None        |        None        |
-|    Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)    | 10d6<br />(+2d6) |      None      | 11d6<br />(+1d6) |      1      |  Melee  |       Slash       |        Swift        |        None        |        None        |
-|    Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)    | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |        Swift        |        None        |        None        |
-|    Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)    | 8d6<br />(+1d6) | 8d6<br />(+1d6) |  9d6<br />(+1d6)  |      0      |  Melee  |       Slash       |        Swift        |        None        |        None        |
-| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | 7d6<br />(+0d6) | 7d6<br />(+0d6) |       +1d6       |      1      |  Short  |      Pierce      |        Swift        |        None        |        None        |
+|                                            Name                                            | One<br />Handed  | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
+| :----------------------------------------------------------------------------------------: | :--------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------: | :-----------------: | :-----------------: |
+|                                   Radiance - Melee Trick                                   |     2d8, 5d6     |                 |                   |      0      |  Melee   |      Radiant      |        Swift        |                     |        None         |
+|                                  Radiance - Ranged Trick                                   |     2d8, 5d6     |                 |                   |      0      | Extended |      Radiant      |       Steady        |                     |        None         |
+|                                      Radiance - Melee                                      |     2d8, 6d6     |                 |                   |      2      |  Melee   |      Radiant      |        Swift        |                     |    1 (Fellblood)    |
+|                                     Radiance - Ranged                                      |     2d8, 6d6     |                 |                   |      1      | Extended |      Radiant      |       Steady        |                     |    1 (Fellblood)    |
+|                                      Radiance - Cone                                       |     2d8, 6d6     |                 |                   |      2      | Extended |      Radiant      |          1          |        Cone         |    1 (Fellblood)    |
+|                                      Radiance - Reach                                      |     2d8, 6d6     |                 |                   |      2      |  Reach   |      Radiant      |        Swift        |                     |    1 (Fellblood)    |
+|                                        Radiance - 1                                        |     2d8, 7d6     |                 |                   |      2      | Extended |      Radiant      |          1          |                     |    1 (Fellblood)    |
+|                                     Radiance - Sphere                                      |     2d8, 7d6     |                 |                   |      3      | Extended |      Radiant      |          1          |       Sphere        |    2 (Fellblood)    |
+|                                   Blessing - Melee Trick                                   |       4d6        |                 |                   |      0      |  Melee   |                   |        Swift        |                     |        None         |
+|                                  Blessing - Ranged Trick                                   |       4d6        |                 |                   |      0      |  Close   |                   |       Steady        |                     |        None         |
+|       Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded)       | 9d6<br />(+1d6)  |      None       | 10d6<br />(+1d6)  |      2      |  Melee   |      Pierce       |        Swift        |        None         |        None         |
+|        Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)        | 10d6<br />(+2d6) |      None       | 11d6<br />(+1d6)  |      1      |  Melee   |       Slash       |        Swift        |        None         |        None         |
+|        Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)        | 7d6<br />(+0d6)  | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee   |      Pierce       |        Swift        |        None         |        None         |
+|         Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)         | 8d6<br />(+1d6)  | 8d6<br />(+1d6) |  9d6<br />(+1d6)  |      0      |  Melee   |       Slash       |        Swift        |        None         |        None         |
+| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | 7d6<br />(+0d6)  | 7d6<br />(+0d6) |       +1d6        |      1      |  Short   |      Pierce       |        Swift        |        None         |        None         |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|       |                     |                    |             |       |                   |                     |
 
 ## Destiny Points: 2/3
 
@@ -66,27 +66,27 @@
 
 ## Equipment
 
-| Name                                 | # |                                           Class                                           |   Tier   | Durability | LB | Value |
-| ------------------------------------ | :-: | :----------------------------------------------------------------------------------------: | :------: | :--------: | :-: | :----: |
-| Superior Gambeson Coat               | 1 |                                        Phy. Def. 1                                        | Superior |   24/24   |  5  |  2 bc  |
-| Superior Gambeson Leggings           | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  3  |  1 bc  |
-| Superior Leather Helmet              | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  2  | 0.5 bc |
-| Superior Leather Cuisses and Greaves | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  3  |  2 bc  |
-| Superior Leather Vambrace            | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  2  | 1.5 bc |
-| Clothes, Fine                        | 1 |                                                                                            | Mundane |            |  6  | 15 bc |
-| Asher's Arms Swordbreaker            | 1 | Small Slash Melee (+2) (One-handed), Small Slash Melee (+2) (Dual-wielded), Small Pierce Melee (-1) (One-handed), Small Pierce Melee (-1) (Dual-wielded), Thrown Small Pierce Melee (-1) (One-handed), Thrown Small Pierce Melee (-1) (Dual-wielded) |   Fine   |   18/18   |  1  |   ?   |
-| Spencer's Arms Arming Sword          | 1 |              Superior Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Superior Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)              | Superior |   24/24   |  2  | 50 bc |
-| Adversary - Damaged                  | 1 |                                     Spellcasting Focus                                     |   Fine   |   18/18   |  1  |   ?   |
-| Mother's Necklace                    | 1 |                                                                                            | Mundane |            | 0.1 |   ?   |
+| Name                                 |   #   |                                                                                                                        Class                                                                                                                         |   Tier   | Durability |  LB   | Value  |
+| ------------------------------------ | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: | :---: | :----: |
+| Superior Gambeson Coat               |   1   |                                                                                                                     Phy. Def. 1                                                                                                                      | Superior |   24/24    |   5   |  2 bc  |
+| Superior Gambeson Leggings           |   1   |                                                                                                                    Phy. Def. 0.5                                                                                                                     | Superior |   24/24    |   3   |  1 bc  |
+| Superior Leather Helmet              |   1   |                                                                                                                    Phy. Def. 0.5                                                                                                                     | Superior |   24/24    |   2   | 0.5 bc |
+| Superior Leather Cuisses and Greaves |   1   |                                                                                                                    Phy. Def. 0.5                                                                                                                     | Superior |   24/24    |   3   |  2 bc  |
+| Superior Leather Vambrace            |   1   |                                                                                                                    Phy. Def. 0.5                                                                                                                     | Superior |   24/24    |   2   | 1.5 bc |
+| Clothes, Fine                        |   1   |                                                                                                                                                                                                                                                      | Mundane  |            |   6   | 15 bc  |
+| Asher's Arms Swordbreaker            |   1   | Small Slash Melee (+2) (One-handed), Small Slash Melee (+2) (Dual-wielded), Small Pierce Melee (-1) (One-handed), Small Pierce Melee (-1) (Dual-wielded), Thrown Small Pierce Melee (-1) (One-handed), Thrown Small Pierce Melee (-1) (Dual-wielded) |   Fine   |   18/18    |   1   |   ?    |
+| Spencer's Arms Arming Sword          |   1   |                                    Superior Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Superior Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)                                    | Superior |   24/24    |   2   | 50 bc  |
+| Adversary - Damaged                  |   1   |                                                                                                                  Spellcasting Focus                                                                                                                  |   Fine   |   18/18    |   1   |   ?    |
+| Mother's Necklace                    |   1   |                                                                                                                                                                                                                                                      | Mundane  |            |  0.1  |   ?    |
 
 ## Containers
 
-| Name                                   |        #        |     Class     |   Tier   | Durability | LB | Value |
-| -------------------------------------- | :-------------: | :------------: | :-------: | :--------: | :-: | :---: |
-| Backpack                               | 30 lb container |                |  Mundane  |            | 5 | 2 bc |
-| Kite Shield (Dawn Emp. Crest)          |        1        | Phy. Def. 2.00 | Superior |   24/24   | 8 | 30 bc |
-| Superior Leather Cuirass and Pauldrons |        1        | Phy. Def. 0.5 | Superior |   24/24   | 4 | 3 bc |
-| 30 lb of gold and gems                 |        1        |                | Exquisite |     -     | 30 |   ?   |
+| Name                                   |        #        |     Class      |   Tier    | Durability |  LB   | Value |
+| -------------------------------------- | :-------------: | :------------: | :-------: | :--------: | :---: | :---: |
+| Backpack                               | 30 lb container |                |  Mundane  |            |   5   | 2 bc  |
+| Kite Shield (Dawn Emp. Crest)          |        1        | Phy. Def. 2.00 | Superior  |   24/24    |   8   | 30 bc |
+| Superior Leather Cuirass and Pauldrons |        1        | Phy. Def. 0.5  | Superior  |   24/24    |   4   | 3 bc  |
+| 30 lb of gold and gems                 |        1        |                | Exquisite |     -      |  30   |   ?   |
 
 ## Notes
 

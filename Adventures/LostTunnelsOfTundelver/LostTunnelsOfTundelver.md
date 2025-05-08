@@ -84,7 +84,7 @@ If Ulfric is questioned he mentions in a pompous English accent that he needs to
 
 After Burrowbard and Ulfric have departed on the road, the young mudblood tinker Killroy will find the players and in a stuttered voice inform them that he was able to get done sooner than expected. He gives the party the lockbox key and number, before wishing them safe travels.
 
-Contained within the puzzle box is an runesmithed blue crystalline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mcguffin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a single player make a CL 3 General Knowledge check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
+Contained within the puzzle box is an runesmithed blue crystalline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mcguffin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a single player make a CL 3 Logic check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
 
 At the end of session 0 and the prologue, describe the following scene.
 
@@ -534,7 +534,7 @@ Barton's Provisions is the largest trading post in Tuntin, counting as a Rural [
 
 The shop's proprietor is Elmer Barton, a kind and slim mudblood male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
 
-**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 bc to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost tunnels mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a CL 3 General Knowledge check can provide information found in the first two paragraphs of the "Background" section.
+**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 bc to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost tunnels mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a CL 3 Knowledge check can provide information found in the first two paragraphs of the "Background" section.
 
 Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tharden, have been camping outside of town. However, he hasn't seen them in the past ten days and anticipates their return to resupply at any moment. Unbeknownst to Barton, Tharden has passed away, and Nundro is held captive within the mine.
 
@@ -576,7 +576,7 @@ The guildmaster is Helga Wispbrook, a determined and strategic mudblood woman. H
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Napping Giant tap house and have an operational base underneath Rozen Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful CL 3 Communications check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Napping Giant tap house and have an operational base underneath Rozen Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful CL 3 Logic check reveals her ulterior motives.
 
 #### Joining the Bargainers
 
@@ -860,7 +860,7 @@ The nothic lurks close to the western ends of the two bridges. Upon noticing int
 
 The nothic communicates telepathically, favoring negotiation over aggression, and is willing to betray the Lavender Lancers if the right incentive is offered, such as food. When role-playing the nothic, adopt a whispering tone with sporadic fits of mad cackles and incoherent mutterings. It doesn't actually speak but rather implants its unsettling thoughts and demands in the characters' minds. The nothic possesses all the knowledge the Lavender Lancers have; refer to the "What the Lavender Lancers Know" sidebar on page 20.
 
-As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful CL 3 General Knowledge check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
+As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful CL 3 Logic check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
 
 The crevasse itself is steep-sided, measuring 5 to 10 feet in width and 20 feet in depth. Its rugged walls can be easily climbed without requiring an ability check. A character unfortunate enough to fall into the crevasse sustains 2d6 bludgeoning damage and lands prone amid a mass of rubble, which becomes difficult terrain.
 
@@ -870,7 +870,7 @@ Notably, the bottom of the crevasse has an eerie chill. When viewed with a detec
 
 As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 1600 copper coins, 120 bronze coins, five malachite gems, each worth 15 bronze coins, two potions of healing, and a scroll of augury.
 
-Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Rozen, who was known as the Black Hawk. Any character who succeeds on a CL 3 General Knowledge Skill check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an ogrekin assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
+Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Rozen, who was known as the Black Hawk. Any character who succeeds on a CL 3 Knowledge Skill check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an ogrekin assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
 
 ### Awarding Skill & Destiny Points
 
@@ -888,7 +888,7 @@ Present in the room are three Feralkin and one Vermkin, known as Droop. The sigh
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in Lavender cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Communication Skill Communication Skill check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in Lavender cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to deceive the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Deception check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
@@ -898,7 +898,7 @@ Droop possesses knowledge of the general layout of the Lavender Lancer hideout, 
 
 #### Developments
 
-Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Tunnels. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a CL 3 Communication Skill check.
+Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Tunnels. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a CL 3 Persuasion/Intimidation Skill check.
 
 #### Treasure
 
@@ -922,7 +922,7 @@ Four burly mudblood warriors, donned in Lavender cloaks, have gathered around on
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
 
-Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavender cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Communication Skill check to hoodwink the Lavender Lancers.
+Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavender cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Deception Skill check to hoodwink the Lavender Lancers.
 
 #### Treasure
 
@@ -1097,7 +1097,7 @@ If the characters behave rudely, show disrespect, or pose threats, Agatha scowls
 
 ### Dealing with Agatha
 
-In the event that the characters maintain respect and politeness, Agatha can be convinced to assist them with a successful CL 3 Communication Check check. The player leading the conversation with the banshee makes the check, with the potential for advantage if the role-playing of the encounter is particularly well done. Should any character possess Sister Garaele's silver comb and offer it as a gift to Agatha, the check automatically succeeds.
+In the event that the characters maintain respect and politeness, Agatha can be convinced to assist them with a successful CL 3 Persuasion check. The player leading the conversation with the banshee makes the check, with the potential for advantage if the role-playing of the encounter is particularly well done. Should any character possess Sister Garaele's silver comb and offer it as a gift to Agatha, the check automatically succeeds.
 
 ```
 The spectral figure flashes a cold, amused smile and utters, "Very well," in an ethereal tone. "I sense your multifaceted quests. Pose one query to me, and I shall impart my answer."
@@ -1125,7 +1125,7 @@ The camp is currently occupied by a runesmith who is fervently exploring the sit
 
 There are twelve zombies concealed within the shattered shell of the former watchtower, unseen from the outside. However, any character with a passive Wisdom (Perception) score of 10 or higher detects a putrid scent wafting from the direction of the tower. When the characters approach the tower or the tent, the zombies emerge from within the structure.
 
-If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a CL 2 General Knowledge skill check recognizes Kost's tattoo as a necromantic symbol. A successful CL 2 General Knowledge Skill check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
+If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a CL 2 Knowledge skill check recognizes Kost's tattoo as a necromantic symbol. A successful CL 2 Knowledge Skill check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
 
 If any character tries to initiate a dialogue with Kost, even through a greeting or by responding to his questions during combat, he momentarily halts his zombies. The Red Wizard is not overtly aggressive and is willing to negotiate a deal that serves both his interests and the party's.
 
@@ -1354,7 +1354,7 @@ The square remains free from encroaching underbrush.
 At the eastern side of the town, a lane expands, creating a modest square. The southern edge of the square is encircled by several dilapidated buildings, while to the north, a larger, well-preserved structure resembling a barracks stands. Three paths diverge: one leads southeast, another curves southwest around the central hill, and a third meanders north. At the square's center, slightly leaning, a time-worn wooden statue of a warrior gripping a spear and shield catches the eye.
 ```
 
-This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful CL 3 General Knowledge Skill check. If one wishes, the statue can be toppled with a successful CL 4 Lift Skill check.
+This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful CL 3 Logic check. If one wishes, the statue can be toppled with a successful CL 4 Lift Skill check.
 
 ### **11. The Old Garrison**
 
@@ -1479,7 +1479,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don Lavender cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Communication Skill check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don Lavender cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Deception check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
@@ -1582,7 +1582,7 @@ This narrow, lofty hall appears to have served as a chapel or shrine long ago. A
 
 Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's RFX (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
-Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a CL 2 General Knowledge check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
+Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a CL 2 Knowledge check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
 
 #### **Developments**
 
@@ -1714,7 +1714,7 @@ As an additional twist, you can introduce a complication in the form of a hobVer
 
 These hobVermkins possess no treasure, but 1d4 of them carry bloodied sacks, each containing a severed dhampir head. These severed heads serve as trophies from the recent triumph of the hobVermkins over an dhampir hunting party.
 
-Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a CL 3 Communication Check check.
+Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a CL 3 Persuasion check.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1982,7 +1982,7 @@ This building formerly served as guest quarters for visiting wizards collaborati
 
 Mormesk speaks in somber, whispering tones. Upon rising from the floor, the wraith utters, "Your presence is offensive to me, your life forfeit. My treasures are mine alone, not yours to plunder!" If the characters make no effort to negotiate, the wraith will attack.
 
-If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a CL 2 Communication Check check to convince the wraith of its value.
+If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a CL 2 Persuasion check to convince the wraith of its value.
 
 However, the wraith will never relinquish the wooden pipe from the scogrekinhed chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Runes (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
 
@@ -1990,7 +1990,7 @@ However, the wraith will never relinquish the wooden pipe from the scogrekinhed 
 
 The scorched chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
-Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful CL 2 General Knowledge check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
+Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful CL 2 Logic check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
 ### Runecraft Forge
 
@@ -2006,9 +2006,9 @@ Hovering behind the brazier with its green flame is a spherical entity, roughly 
 
 The wraith in Area 14 is determined to drive off or eliminnate the spectator, but thus far, the creature has easily fended off the assaults of Mormesk's zombies and ghouls, seemingly oblivious to the undead roaming the mine. Should the party attempt to remove anything from this area, the spectator will attack. If somehow blinded, the creature retreats to its home plane, convinced that it can no longer fulfill the purpose for which it was summoned.
 
-By succeeding in a CL 3 Communication Skill check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Tunnels, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
+By succeeding in a CL 3 Deception check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Tunnels, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
 
-**The Brazier of Green Flame.** A successful CL 3 General Knowledge skill check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
+**The Brazier of Green Flame.** A successful CL 3 Knowledge skill check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
 
 **The Northern Chamber.** This small, separate workspace was utilized for the final touches on items being prepared for enchantment, including polishing, lacquering, and other finishing touches. Like the primary workshop, it has sustained severe damage.
 
@@ -2082,7 +2082,7 @@ Nezznar the Black Spider is accompanied by four formidable giant spiders who def
 
 Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the spiderkin does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the spiderkin villain.
 
-**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 General Knowledge check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful CL 2 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Dexterity Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
+**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 Logic check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful CL 2 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Dexterity Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
 **Table.** The table is strewn with notes and maps, showcasing Nezznar's exploration efforts within the mine. Amid the paperwork lies a black leather sack containing treasure (see the "Treasure" section).
 

@@ -15,44 +15,44 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ## Attributes and Core Skills
 
-|    STR    | -1 | Roll |       RFX       | 2 | Roll |        INT        | 0 | Roll |
-| :-------: | :-: | :--: | :-------------: | :-: | :--: | :---------------: | :-: | :--: |
-| Athletics | 0 | 2d6 |   Dexterity   | 0 | 5d6 |   Communication   | 0 | 3d6 |
-|   (Deprecated)   | 0 | 2d6 |   Perception   | 1 | 6d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 2d6 | (Deprecated) | 0 | 5d6 |     (Deprecated)     | 1 | 4d6 |
-|   Lift   | 0 | 2d6 |     Stealth     | 0 | 5d6 |     Willpower     | 1 | 4d6 |
+|     STR      |  -1   | Roll  |     RFX      |   2   | Roll  |        INT        |   0   | Roll  |
+| :----------: | :---: | :---: | :----------: | :---: | :---: | :---------------: | :---: | :---: |
+|  Athletics   |   0   |  2d6  |  Dexterity   |   0   |  5d6  |   (Deprecated)   |   0   |  3d6  |
+| (Deprecated) |   0   |  2d6  |  Perception  |   1   |  6d6  | (Deprecated) |   0   |  3d6  |
+|  Endurance   |   0   |  2d6  | (Deprecated) |   0   |  5d6  |   (Deprecated)    |   1   |  4d6  |
+|     Lift     |   0   |  2d6  |   Stealth    |   0   |  5d6  |     Willpower     |   1   |  4d6  |
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT} | 3 | 8d6 | Queen alate {STR, RFX, INT} | 1 | 6d6 |
-| :--------------: | :-: | :-: | ----------------- | :-: | --- |
-| Mindcraft {STR, RFX, INT} | 3 | 8d6 | Large Hafted      | 1 | 6d6 |
-| Polycraft {STR, RFX, INT} | 1 | 6d6 | Small Blade      | 0 | 5d6 |
-| Toxincraft {STR, RFX, INT} | 0 | 5d6 | Unarmed           | 0 | 5d6 |
-| Terracraft {STR, RFX, INT} | 0 | 5d6 |                   |  |     |
+| Fellcaster {STR, RFX, INT} |   3   |  8d6  | Queen alate {STR, RFX, INT} |   1   | 6d6 |
+| :------------------------: | :---: | :---: | --------------------------- | :---: | --- |
+| Mindcraft {STR, RFX, INT}  |   3   |  8d6  | Large Hafted                |   1   | 6d6 |
+| Polycraft {STR, RFX, INT}  |   1   |  6d6  | Small Blade                 |   0   | 5d6 |
+| Toxincraft {STR, RFX, INT} |   0   |  5d6  | Unarmed                     |   0   | 5d6 |
+| Terracraft {STR, RFX, INT} |   0   |  5d6  |                             |       |     |
 
 ## Effects
 
-| Name                                                                                     | Effect                                                        | Duration    | Source                                                                                                                                   |
-| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| Minor Silver Weakness                                                                    | +1 to the level of injury received from damage type.        |             | Fellblood                                                                                                                            |
-| Physical Defense Level                                                                   | Phy. Def. 1.66                                                |             | Carapace                                                                                                                                 |
-| Medium Size                                                                              | 5x5 ft on battle map.                                         |             |                                                                                                                                          |
-| Language: Babelish                                                                       | Can speak Babelish.                                           |             |                                                                                                                                          |
-| Language:                                                                                | Can speak Kikishi                                             |             |                                                                                                                                          |
-| Disabling: Feelbe                                                                        | She is shorter, lighter and weaker then other royal kiki.     |             | She lost on the genetic lottery.                                                                                                         |
-| Disabling: Drug addict.                                                                  | A light dose of Mirage keeps her from depression.             |             |                                                                                                                                          |
-| Disabling: Can't read or solve fine puzzles.                                             | Sees fine detail in large pixels.                             |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
-| Racial feature: [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) | Sees well in dimm light.                                      |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
-| Racial feature: 2 Extra arms                                                             | Cool factor. :D                                               |             | Have you ever seen a healthy bug with only 4 limbs?! ;)                                                                                  |
-| Racial feature: 4 Extra wings                                                            | Short flight.                                                 | Alate Phase | Queen alate status in the hive.                                                                                                          |
-| Racial feature: Antennae                                                                 | Good sense of smell and pheromone.                            |             | Underground hive dweller species.                                                                                                        |
-| Equipment Weight                                                                         | 41.66 LB                                                      |             | Equipment                                                                                                                                |
-| Carry Weight                                                                    | 70 lb                                                         |             | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-| Weight Class: Light                                                                             | -0d to STR/RFX governed Dice Pools                               |             | 0% =< Equipment Weight <= 25% of Carry Weight                                                                                                                 |
-| Terrestrial Movement Speed                                                                  | 30 ft                                                         |             | +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                                                                |
-| Swim Movement Speed                                                                      | 15 ft                                                         |             | +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                                                                 |
-| Climb Movement Speed                                                                     | 15 ft                                                         |             | +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                                                                     |
+|                                           Name                                           |                          Effect                           |  Duration   |                                                                  Source                                                                  |
+| :--------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|                                  Minor Silver Weakness                                   |   +1 to the level of injury received from damage type.    |             |                                                                Fellblood                                                                 |
+|                                  Physical Defense Level                                  |                      Phy. Def. 1.66                       |             |                                                                 Carapace                                                                 |
+|                                       Medium Size                                        |                   5x5 ft on battle map.                   |             |                                                                                                                                          |
+|                                    Language: Babelish                                    |                    Can speak Babelish.                    |             |                                                                                                                                          |
+|                                        Language:                                         |                     Can speak Kikishi                     |             |                                                                                                                                          |
+|                                    Disabling: Feelbe                                     | She is shorter, lighter and weaker then other royal kiki. |             |                                                     She lost on the genetic lottery.                                                     |
+|                                 Disabling: Drug addict.                                  |     A light dose of Mirage keeps her from depression.     |             |                                                                                                                                          |
+|                       Disabling: Can't read or solve fine puzzles.                       |             Sees fine detail in large pixels.             |             |                                                  Compound eyes (Multi lense bug eyes).                                                   |
+| Racial feature: [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |                 Sees well in dimm light.                  |             |                                                  Compound eyes (Multi lense bug eyes).                                                   |
+|                               Racial feature: 2 Extra arms                               |                      Cool factor. :D                      |             |                                         Have you ever seen a healthy bug with only 4 limbs?! ;)                                          |
+|                              Racial feature: 4 Extra wings                               |                       Short flight.                       | Alate Phase |                                                     Queen alate status in the hive.                                                      |
+|                                 Racial feature: Antennae                                 |            Good sense of smell and pheromone.             |             |                                                    Underground hive dweller species.                                                     |
+|                                     Equipment Weight                                     |                         41.66 LB                          |             |                                                                Equipment                                                                 |
+|                                       Carry Weight                                       |                           70 lb                           |             | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|                                   Weight Class: Light                                    |            -0d to STR/RFX governed Dice Pools             |             |                                              0% =< Equipment Weight <= 25% of Carry Weight                                               |
+|                                Terrestrial Movement Speed                                |                           30 ft                           |             |                                             +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                              |
+|                                   Swim Movement Speed                                    |                           15 ft                           |             |                                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
+|                                   Climb Movement Speed                                   |                           15 ft                           |             |                                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
 
 ## Combat Rolls (UNFINISHED)
 
@@ -60,47 +60,47 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ***Physical Melee***
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
-| :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|         Unarmed         | 4d6<br />(-1) | 4d6<br />(-1) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
-| Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded) | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
-|   Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)   | 5d6<br />(-1) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
-|  Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Swift           |        None        |        None        |
-|  Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Swift           |        None        |        None        |
+|                                       Name                                       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
+| :------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :-----------------: |
+|                                     Unarmed                                      |  4d6<br />(-1)  |  4d6<br />(-1)  |      (None)       |      0      | Melee |     Bludgeon      |        Swift        |        None         |        None         |
+| Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded) | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)       |      0      | Melee |     Bludgeon      |        Swift        |        None         |        None         |
+|  Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)  |  5d6<br />(-1)  | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |        Swift        |        None         |        None         |
+|   Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)   | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6        |      2      | Melee |      Pierce       |        Swift        |        None         |        None         |
+|    Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)    | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6        |      0      | Melee |       Slash       |        Swift        |        None         |        None         |
 
 ***Fellcraft Melee***
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
-| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
-| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
+| Polycraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|     Polycraft- Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
+| Toxincraft - Melee Trick |       6d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|    Toxincraft- Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
+| Terracraft - Melee Trick |       6d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|    Terracraft- Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
 
 ### Ranged Options
 
 ***Physical Ranged***
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Swift           |        None        |        None        |
+|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
+| :----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :-----------------: |
+| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                   |      1      | Melee |      Pierce       |        Swift        |        None         |        None         |
 
 ***Fellcraft Ranged***
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
-| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
-| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
-|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
+| Polycraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|     Polycraft- Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
+| Toxincraft - Melee Trick |       6d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|    Toxincraft- Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
+| Terracraft - Melee Trick |       6d6       |                 |                   |      0      | Melee |                   |        Swift        |                     |        None         |
+|    Terracraft- Melee     |       9d6       |                 |                   |      2      | Melee |                   |        Swift        |                     |    1 (Fellblood)    |
 
 ## Destiny Points: 3/3
 
@@ -110,20 +110,20 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ## Equipment
 
-|              Name              | # |                     Class                     |    Tier    | Durability | LB | Value |                                                                                              Note                                                                                              |
-| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :-: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons | 1 |                 Natural Armor                 |   Quality   |   15/15   | 6 |  0 bc  |                                                                   Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                                   |
-|  Carapace Cuisses and Greaves  | 1 |                 Natural Armor                 |   Quality   |   15/15   | 2 |  0 bc  |                                                                    Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                    |
-|       Carapace Vambrace       | 1 |                 Natural Armor                 |   Quality   |   15/15   | 2 |  0 bc  |                                                                         Equivalent of leather vambrace (Phy.Def. 0.5)                                                                         |
-|      Clothes, Traveler's      | 1 |                                          |   Mundane   |   12/12   | 4 |  2 bc  |                                                                                          Simple Gown                                                                                          |
-|         Cloak, Canvas         | 1 |                                          |   Mundane   |   12/12   | 5 | 0.7 bc |                                                                                    Simple Warm Ruana Cloak                                                                                    |
-|             Boots             | 1 |                                          |   Mundane   |   12/12   | 1 |  4 bc  |                                                                                                                                                                                                |
-|        Pouch        | 1 |                                          |   Mundane   |   12/12   | 1 | 0.5 bc |                                                                                                                                                                                                |
-|       Satchel       | 1 |                                          |   Mundane   |   12/12   | 2 |  1 bc  |                                                                                                                                                                                                |
-|        Waterskin (4/4)        | 1 |                                          |   Mundane   |   12/12   | 5 | 20 bc |                                                                                                                                                                                                |
-|    Royal Kiki Quarterstaff    | 1 |              Medium Hafter Blunt              | Mastercraft |   33/33   | 4 | ?? bc | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
-|             Dagger             | 1 | Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)<br />Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   Mundane   |   12/12   | 1 |  2 bc  |                                               Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                               |
-|                                | 0 |                                              |   Mundane   |   12/12   | 0 |  0 bc  |                                                                                                                                                                                                |
+|              Name              |   #   |                                                                                    Class                                                                                     |    Tier     | Durability |  LB   | Value  |                                                                                              Note                                                                                              |
+| :----------------------------: | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: | :---: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons |   1   |                                                                                Natural Armor                                                                                 |   Quality   |   15/15    |   6   |  0 bc  |                                                                   Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                                   |
+|  Carapace Cuisses and Greaves  |   1   |                                                                                Natural Armor                                                                                 |   Quality   |   15/15    |   2   |  0 bc  |                                                                    Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                    |
+|       Carapace Vambrace        |   1   |                                                                                Natural Armor                                                                                 |   Quality   |   15/15    |   2   |  0 bc  |                                                                         Equivalent of leather vambrace (Phy.Def. 0.5)                                                                          |
+|      Clothes, Traveler's       |   1   |                                                                                                                                                                              |   Mundane   |   12/12    |   4   |  2 bc  |                                                                                          Simple Gown                                                                                           |
+|         Cloak, Canvas          |   1   |                                                                                                                                                                              |   Mundane   |   12/12    |   5   | 0.7 bc |                                                                                    Simple Warm Ruana Cloak                                                                                     |
+|             Boots              |   1   |                                                                                                                                                                              |   Mundane   |   12/12    |   1   |  4 bc  |                                                                                                                                                                                                |
+|             Pouch              |   1   |                                                                                                                                                                              |   Mundane   |   12/12    |   1   | 0.5 bc |                                                                                                                                                                                                |
+|            Satchel             |   1   |                                                                                                                                                                              |   Mundane   |   12/12    |   2   |  1 bc  |                                                                                                                                                                                                |
+|        Waterskin (4/4)         |   1   |                                                                                                                                                                              |   Mundane   |   12/12    |   5   | 20 bc  |                                                                                                                                                                                                |
+|    Royal Kiki Quarterstaff     |   1   |                                                                             Medium Hafter Blunt                                                                              | Mastercraft |   33/33    |   4   | ?? bc  | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
+|             Dagger             |   1   | Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)<br />Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   Mundane   |   12/12    |   1   |  2 bc  |                                               Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                               |
+|                                |   0   |                                                                                                                                                                              |   Mundane   |   12/12    |   0   |  0 bc  |                                                                                                                                                                                                |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
@@ -140,21 +140,21 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ### Pouch - Max 6 LB
 
-|              Name              | # |                     Class                     |  Tier  | Durability |  LB  | Value |                                    Note                                    |
-| :----------------------------: | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
-| Silver dagger (Stolen, Hidden) | 1 | Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)<br />Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | Mundane |   12/12   |  1  |  ? bc  | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
-|         Perfume (vial)         | 1 |                                          | Mundane |   12/12   | 0.1 |  5 bc  |                                                                            |
-|         Mirror, Steel         | 1 |                                          | Mundane |   12/12   | 0.5 |  5 bc  |                                                                            |
-|           Coin Purse           | 1 |                                          | Mundane |   12/12   | 0.06 |  1 bc  |                                                                            |
-|        Rations (1 day)        | 1 |                                          | Mundane |   12/12   |  2  | 0.5 bc |                                                                            |
-|                                | 0 |                                              | Mundane |   12/12   |  0  |  0 bc  |                                                                            |
+|              Name              |   #   |                                                                                    Class                                                                                     |  Tier   | Durability |  LB   | Value  |                                    Note                                     |
+| :----------------------------: | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: | :--------: | :---: | :----: | :-------------------------------------------------------------------------: |
+| Silver dagger (Stolen, Hidden) |   1   | Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)<br />Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | Mundane |   12/12    |   1   |  ? bc  | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
+|         Perfume (vial)         |   1   |                                                                                                                                                                              | Mundane |   12/12    |  0.1  |  5 bc  |                                                                             |
+|         Mirror, Steel          |   1   |                                                                                                                                                                              | Mundane |   12/12    |  0.5  |  5 bc  |                                                                             |
+|           Coin Purse           |   1   |                                                                                                                                                                              | Mundane |   12/12    | 0.06  |  1 bc  |                                                                             |
+|        Rations (1 day)         |   1   |                                                                                                                                                                              | Mundane |   12/12    |   2   | 0.5 bc |                                                                             |
+|                                |   0   |                                                                                                                                                                              | Mundane |   12/12    |   0   |  0 bc  |                                                                             |
 
 ### Satchel - Max 12 LB
 
-|      Name      | # | Class |  Tier  | Durability | LB | Value | Note |
-| :-------------: | :-: | :---: | :-----: | :--------: | :-: | :----: | :--: |
-| Rations (1 day) | 3 |  | Mundane |   12/12   | 2 | 0.5 bc |      |
-|                | 0 |      | Mundane |   12/12   | 0 |  0 bc  |      |
+|      Name       |   #   | Class |  Tier   | Durability |  LB   | Value  | Note  |
+| :-------------: | :---: | :---: | :-----: | :--------: | :---: | :----: | :---: |
+| Rations (1 day) |   3   |       | Mundane |   12/12    |   2   | 0.5 bc |       |
+|                 |   0   |       | Mundane |   12/12    |   0   |  0 bc  |       |
 
 ## Disposition
 
