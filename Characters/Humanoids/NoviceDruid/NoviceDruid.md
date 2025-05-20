@@ -37,7 +37,7 @@
 |                [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                    |                                        |          |                                                  |
 |              [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection              |                   5/5                   |          |                Druid/Will Level                |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       | -0d to STR/RFX/INT governed Dice Pools. |          |                      Damage                      |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       | -0d to STR/RFX/INT/CHA governed Dice Pools. |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

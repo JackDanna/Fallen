@@ -37,7 +37,7 @@
 |                 [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                [Movement Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                    |                                                      |          |                                                  |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |       -0d to STR/RFX/INT governed Dice Pools.       |          |                 Damage Received                 |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |       -0d to STR/RFX/INT/CHA governed Dice Pools.       |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
