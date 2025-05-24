@@ -118,7 +118,7 @@
 | Leather Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |                                         12                                         |                    10 bc                    |            |
 | Heater Shield | 1 |                    Shield, Phy. Def. 2.00                    |                                          8                                          |                    7 bc                    |            |
 | Morning Star  | 1 |           (One-handed) Medium Bludgeon Melee (+0), (Two-handed) Medium Bludgeon Melee (+0), (Dual-wielded) Medium Bludgeon Melee (+0), (One-handed) Medium Pierce Melee (+0), (Two-handed) Medium Pierce Melee (+0), (Dual-wielded) Medium Pierce Melee (+0)           |                                          4                                          |                    15 bc                    |            |
-| Javelin       | 3 |              (One-handed) Medium Spear (+0), (Dual-wielded) Medium Spear (+0), Thrown (One-handed) Medium Spear (+0)              |                                          2                                          |                    5 bc                    |            |
+| Javelin       | 3 |              (One-handed) Medium Spear (+0), (Dual-wielded) Medium Spear (+0), (One-handed) Thrown Medium Spear (+0)              |                                          2                                          |                    5 bc                    |            |
 
 ## Backstory
 

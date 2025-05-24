@@ -4,7 +4,7 @@
 
 |      Name      | # |                                                                             Effects                                                                             | LB | Value | Description                                                                                                                                 |
 | :------------: | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Draupnir Spear | 1 | (One-handed) Medium Spear (+3), (Dual-wielded) Medium Spear (+3), Thrown (One-handed) Medium Spear (+3), (One-handed) Large Spear (+3), (Two-handed) Large Spear (+3), Thrown (One-handed) Large Spear (+3), (One-handed) Reach Spear (+3), (Two-handed) Reach Spear (+3), Spellcasting Focus, Draupnir | 3 | ? bc | Said to have been crafted by Siren smith long ago with the blood of a god...<br /><br />This spear can be used as a Air Spellcasting Focus. |
+| Draupnir Spear | 1 | (One-handed) Medium Spear (+3), (Dual-wielded) Medium Spear (+3), (One-handed) Thrown Medium Spear (+3), (One-handed) Large Spear (+3), (Two-handed) Large Spear (+3), (One-handed) Thrown Large Spear (+3), (One-handed) Reach Spear (+3), (Two-handed) Reach Spear (+3), Spellcasting Focus, Draupnir | 3 | ? bc | Said to have been crafted by Siren smith long ago with the blood of a god...<br /><br />This spear can be used as a Air Spellcasting Focus. |
 
 ## Effects
 
