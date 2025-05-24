@@ -63,7 +63,7 @@
 | --------------- | :-: | :---------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Copper Coin     | 17 |                                                                  |                                        0.02                                        |                    1 cc                    |             |
 | Clothes, Common | 1 |                                                                  |                                          3                                          |                    50 cc                    |             |
-| Shoddy Club     | 1 | Shoddy One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, Shoddy One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0 Blunt |                                          2                                          |                    10 cc                    |             |
+| Shoddy Club     | 1 | One-handed Small Bludgeon Melee +0, Dual-wielded Small Bludgeon Melee +0, One-handed Thrown Small Bludgeon Melee +0, Dual-wielded Thrown Small Bludgeon Melee +0 Blunt |                                          2                                          |                    10 cc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
