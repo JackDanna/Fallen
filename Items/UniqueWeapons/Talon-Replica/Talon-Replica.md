@@ -4,7 +4,7 @@
 
 |      Name      | # |                          Effects                          | LB | Value | Description                                                                                                                                     |
 | :-------------: | :-: | :--------------------------------------------------------: | :-: | :---: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Talon - Replica | 1 | Small Pierce Melee (One-handed) (+1), Small Pierce Melee (Dual-wielded) (+1), Small Slash Melee (One-handed) (+1), Small Slash Melee (Dual-wielded) (+1) | 1.5 |   ?   | Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom. |
+| Talon - Replica | 1 | (One-handed) Small Pierce Melee (+1), (Dual-wielded) Small Pierce Melee (+1), (One-handed) Small Slash Melee (+1), (Dual-wielded) Small Slash Melee (+1) | 1.5 |   ?   | Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom. |
 
 ## Effects
 
