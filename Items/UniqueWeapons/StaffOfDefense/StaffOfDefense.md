@@ -4,7 +4,7 @@
 
 |       Name       | # |                                         Effects                                         | LB | Value | Description                                                                                                                                                                                                                                                                                 |
 | :--------------: | :-: | :-------------------------------------------------------------------------------------: | :-: | :---: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Staff of Defense | 1 | Large Bludgeon Melee (One-handed) (+3), Large Bludgeon Melee (Two-handed) (+3), Spellcasting Focus, Defense Spells, Physical Defense 1.00 | 3 |   ?   | Crafted from resilient crystal yet possessing the strength of oak, this slender and hollow staff weighs 3 pounds. To unlock its benefits and cast the embedded spells, attunement to the staff is required.<br /><br />While wielding the staff, your Physical Defense receives a +1 bonus. |
+| Staff of Defense | 1 | (One-handed) Large Bludgeon Melee (+3), (Two-handed) Large Bludgeon Melee (+3), Spellcasting Focus, Defense Spells, Physical Defense 1.00 | 3 |   ?   | Crafted from resilient crystal yet possessing the strength of oak, this slender and hollow staff weighs 3 pounds. To unlock its benefits and cast the embedded spells, attunement to the staff is required.<br /><br />While wielding the staff, your Physical Defense receives a +1 bonus. |
 
 ## Effects
 

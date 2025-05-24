@@ -4,7 +4,7 @@
 
 |   Name   | # |                                                                                            Effects                                                                                            | LB | Value | Description                                                                                     |
 | :-------: | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: | ----------------------------------------------------------------------------------------------- |
-| Asclepius | 1 | (One-handed) Medium Spear (+7), (Dual-wielded) Medium Spear (+7), Thrown (One-handed) Medium Spear (+7), Large Spear (One-handed) (+7), Large Spear (Two-handed) (+7), Thrown Large Spear (One-handed) (+7), Reach Spear (One-handed) (+7), Reach Spear (Two-handed) (+7), Whip (One-handed) (+7), Whip (Dual-wielded) (+7), Metal Feeding, Command Asclepius | 3 |   ?   | This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan. |
+| Asclepius | 1 | (One-handed) Medium Spear (+7), (Dual-wielded) Medium Spear (+7), Thrown (One-handed) Medium Spear (+7), (One-handed) Large Spear (+7), (Two-handed) Large Spear (+7), Thrown (One-handed) Large Spear (+7), Reach Spear (One-handed) (+7), Reach Spear (Two-handed) (+7), Whip (One-handed) (+7), Whip (Dual-wielded) (+7), Metal Feeding, Command Asclepius | 3 |   ?   | This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan. |
 
 ## Effects
 
