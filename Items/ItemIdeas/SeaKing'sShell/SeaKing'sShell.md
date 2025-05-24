@@ -6,7 +6,7 @@ This superior runecrafted breastplate has a dragon motif etched into its design.
 
 Item Type: 1.5 Physical Defense Armor
 
-Tier: Superior (+4)
+Tier: Superior +4
 
 ## Effects
 
