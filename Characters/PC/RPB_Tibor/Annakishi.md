@@ -20,7 +20,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 |  Athletics   |   0   |  2d6  |  Dexterity   |   0   |  5d6  |   (Deprecated)   |   0   |  3d6  |
 | (Deprecated) |   0   |  2d6  |  Perception  |   1   |  6d6  | (Deprecated) |   0   |  3d6  |
 |  Endurance   |   0   |  2d6  | (Deprecated) |   0   |  5d6  |   (Deprecated)    |   1   |  4d6  |
-|     Lift     |   0   |  2d6  |   Stealth    |   0   |  5d6  |     Willpower     |   1   |  4d6  |
+|     Lift     |   0   |  2d6  |   Stealth    |   0   |  5d6  |     Will     |   1   |  4d6  |
 
 ## Vocations and Vocational Skills
 
