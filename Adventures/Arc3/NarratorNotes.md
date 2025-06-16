@@ -1,0 +1,12 @@
+- Conversation with Luc
+  - Luc wants the alliance with Reddland to happen since it stregnthens his position to the throne
+- Arriving in Crossroads
+  - Descrive the city
+  - Describe the influx of royalty
+  - At the gate, Silas Blackburn and his mother Clara Blackburn are being proceeded. Silas wants to kill Destin but Clara holds him back
+  - Tirberus is completely crippled
+  - Octavian
+    - Uhtred's mom
+  - Not Sure from Caurius
+  - Killroy
+-

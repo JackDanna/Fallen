@@ -9,7 +9,7 @@
 |  Athletics   |   0   |  3d6  |  Dexterity   |   0   |  4d6  |   (Deprecated)   |   0   |  3d6  |
 | (Deprecated) |   0   |  3d6  |  Perception  |   0   |  4d6  | (Deprecated) |   0   |  3d6  |
 |  Endurance   |   1   |  4d6  | (Deprecated) |   0   |  4d6  |   (Deprecated)    |   0   |  3d6  |
-|     Lift     |   1   |  4d6  |   Stealth    |   0   |  4d6  |     Willpower     |  -1   |  2d6  |
+|     Lift     |   1   |  4d6  |   Stealth    |   0   |  4d6  |     Will     |  -1   |  2d6  |
 
 <!-- 3 skill points + 1 from narrative DC (Incapable of lying) + 1 redistributed from -1 will (Easily compelled) -->
 
@@ -198,7 +198,7 @@ His eyes don't normally glow, he can only see in complete darkness by means of p
 
 **About his appearance in general:**
 
-- He is unlike anything I've seen in fantasy. I kinda looked for bugs to combine, and made him unique. His eyes come from dragon-like. The chelae come from scorpion, the antennae and behavior from ants, and I also gave him some carapace for protection. I made Annakishi first, and they are like ants, so royals have wings, warriors have carapace helmet but no wings, workers have no wings or helmet. Both workers, and warriors should have -1 willpower unlike royals who have 0 and queens who should have +1.
+- He is unlike anything I've seen in fantasy. I kinda looked for bugs to combine, and made him unique. His eyes come from dragon-like. The chelae come from scorpion, the antennae and behavior from ants, and I also gave him some carapace for protection. I made Annakishi first, and they are like ants, so royals have wings, warriors have carapace helmet but no wings, workers have no wings or helmet. Both workers, and warriors should have -1 will unlike royals who have 0 and queens who should have +1.
 - I didn't look for an existing character class again, Annakishi was my template for him.
 
 ## Notes (I'll probably use something else for character notes... This is far too basic for me.)
