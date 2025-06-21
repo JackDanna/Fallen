@@ -138,9 +138,9 @@
 | Longsword                      | 1 | One-handed Pierce Large Melee, Two-handed Pierce Large Melee, One-handed Slash Large Melee, Two-handed Slash Large Melee                  |                                          3                                          |                    25 bc                    |             |
 | Heavy Longbow                  | 1 | Heavy Bow                                                    |                                          4                                          |                    50 bc                    |             |
 | Quiver (capacity: 20)          | 3 |                                                              |                                          1                                          |                    1 bc                    |             |
-| Heavy Arrow - Broadhead        | 20 | Broadhead Heavy Arrow                                         |                                        0.05                                        |                    5 cc                    |             |
-| Heavy Arrow - Barbed Broadhead | 20 | Barbed Heavy Arrow                                         |                                        0.05                                        |                    7 cc                    |             |
-| Heavy Arrow - Bodkin           | 20 | Bodkin Heavy Arrow                                       |                                        0.05                                        |                    10 cc                    |             |
+| Broadhead Heavy Arrow        | 20 | Broadhead Heavy Arrow                                         |                                        0.05                                        |                    5 cc                    |             |
+| Barbed Heavy Arrow | 20 | Barbed Heavy Arrow                                         |                                        0.05                                        |                    7 cc                    |             |
+| Bodkin Heavy Arrow           | 20 | Bodkin Heavy Arrow                                       |                                        0.05                                        |                    10 cc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 

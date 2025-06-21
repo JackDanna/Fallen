@@ -133,7 +133,7 @@
 | Leather Armor           | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |                                         12                                         |                    10 bc                    |             |
 | Heavy Longbow           | 1 | Heavy Bow                                                    |                                          4                                          |                    50 bc                    |             |
 | Quiver (capacity: 20)   | 1 |                                                              |                                          1                                          |                    1 bc                    |             |
-| Heavy Arrow - Broadhead | 17 | Broadhead Heavy Arrow                                         |                                        0.05                                        |                    5 cc                    |             |
+| Broadhead Heavy Arrow | 17 | Broadhead Heavy Arrow                                         |                                        0.05                                        |                    5 cc                    |             |
 | Hew                     | 1 | One-handed Hew Large Melee, Two-handed Hew Large Melee, Splinter                                   |                                          4                                          |                      ?                      |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)

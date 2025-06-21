@@ -140,7 +140,7 @@ Unspent Skill Point: 1
 | Javelin                        | 2 | One-handed Medium Spear, Dual-wielded Medium Spear, One-handed Thrown Medium Spear                            |                                          3                                          |                    5 bc                    |             |
 | Light Longbow                  | 1 | Light Bow                                                    |                                          2                                          |                    25 bc                    |             |
 | Quiver (capacity: 20)          | 1 |                                                              |                                          1                                          |                    1 bc                    |             |
-| Light Arrow - Broadhead        | 20 | Broadhead Light Arrow                                         |                                        0.05                                        |                    5 cc                    |             |
+| Broadhead Light Arrow        | 20 | Broadhead Light Arrow                                         |                                        0.05                                        |                    5 cc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 

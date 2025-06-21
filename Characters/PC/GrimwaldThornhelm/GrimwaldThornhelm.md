@@ -142,7 +142,7 @@
 | Backpack                | 30 lb container |                                                    |                                          5                                          |                    2 bc                    |             |
 | Heavy Longbow           |        1        | Heavy Bow                                          |                                          4                                          |                    50 bc                    |             |
 | Quiver (capacity: 20)   |        3        |                                                    |                                          1                                          |                    1 bc                    |             |
-| Heavy Arrow - Broadhead |       20       | Broadhead Heavy Arrow                               |                                        0.05                                        |                    5 cc                    |             |
+| Broadhead Heavy Arrow |       20       | Broadhead Heavy Arrow                               |                                        0.05                                        |                    5 cc                    |             |
 
 ## Notes
 

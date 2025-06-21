@@ -135,7 +135,7 @@
 | Leather Armor                       | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |                                         12                                         |                    10 bc                    |             |
 | Hand Crossbow                       | 1 | Hand Crossbow                                                |                                          3                                          |                    75 bc                    |             |
 | Rapier                              | 1 | One-handed Pierce Medium Melee +2, Dual-wielded Pierce Medium Melee +2, One-handed Slash Medium Melee, Dual-wielded Slash Medium Melee    |                                          2                                          |                    25 bc                    |             |
-| Light Bolt - Bodkin                 | 20 | Bodkin Light Bolt                                        |                                        0.075                                        |                    10 cc                    |             |
+| Bodkin Light Bolt                 | 20 | Bodkin Light Bolt                                        |                                        0.075                                        |                    10 cc                    |             |
 | Case, Crossbow Bolts (capacity: 20) | 1 |                                                              |                                          1                                          |                    1 bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)

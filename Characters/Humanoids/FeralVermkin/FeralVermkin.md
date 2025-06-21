@@ -122,7 +122,7 @@
 | Buckler Shield            | 1 |                    Shield, Phy. Def. 1.00                    |                                          4                                          |                    2 bc                    |             |
 | Shortsword                | 2 |  One-handed Pierce Close Melee +1, Dual-wielded Pierce Close Melee +1, One-handed Slash Close Melee +1, Dual-wielded Slash Close Melee +1  |                                         1.5                                         |                    5 bc                    |             |
 | Light Longbow             | 1 |                          Light Bow                          |                                          2                                          |                    25 bc                    |             |
-| Light Arrow - Wood Tipped | 20 |                     Wooden Light Arrow                     |                                        0.05                                        |                    2 cc                    |             |
+| Wooden Light Arrow | 20 |                     Wooden Light Arrow                     |                                        0.05                                        |                    2 cc                    |             |
 | Quiver (capacity: 20)     | 1 |                                                              |                                          1                                          |                    1 bc                    |             |
 
 ## Backstory
