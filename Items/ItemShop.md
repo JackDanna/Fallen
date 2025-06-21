@@ -186,7 +186,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Lock                |  1  |                                        |   1   | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |              Manacles              |  1  |                                        |   6   | 2 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |            Mirror, Steel            |  1  |                                        |  0.5  | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Pick, Miner's            |  1  |           Large Hafted Point           |   10   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Pickaxe            |  1  |           Large Hafted Point           |   10   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |                Piton                |  1  |                                        |  0.25  | 5 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |              Pot, Iron              |  1  |                                        |   10   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |            Spikes, Iron            |  1  |                                        |  0.5  | 10 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -345,7 +345,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |         Mirror, Steel         |        1        |                    |  0.5  | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |       Paper (one sheet)       |        1        |                    |   0   | 20 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |     Parchment (one sheet)     |        1        |                    |   0   | 10 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Pick, Miner's         |        1        | Large Hafted Point |   10   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Pickaxe         |        1        | Large Hafted Point |   10   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |           Pot, Iron           |        1        |                    |   10   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |             Pouch             |  6 lb container  |                    |   1   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |     Rope, Hempen (50 feet)     |        1        |                    |   10   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
@@ -450,7 +450,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |            Mirror, Steel            |        1        |                                                                        |  0.5  |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |          Paper (one sheet)          |        1        |                                                                        |   0   |  20 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |        Parchment (one sheet)        |        1        |                                                                        |   0   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Pick, Miner's            |        1        |                           Large Hafted Point                           |   10   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Pickaxe            |        1        |                           Large Hafted Point                           |   10   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |                Piton                |        1        |                                                                        |  0.25  |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |           Pole (10-foot)           |        1        |                                                                        |   7   |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |              Pot, Iron              |        1        |                                                                        |   10   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
