@@ -538,7 +538,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |   Woodcarver's Tools   | 1 |        |   5   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |      Disguise Kit      | 1 |        |   3   | 25 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |        Dice Set        | 1 |        |  0.2  | 10 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|     Dragonchess Set     | 1 |        |  0.5  | 1 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|     Chess Set     | 1 |        |  0.5  | 1 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |    Playing Card Set    | 1 |        |  0.2  | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |  Three-Dragon Ante Set  | 1 |        |  0.2  | 50 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |        Bagpipes        | 1 |        |   6   | 30 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
