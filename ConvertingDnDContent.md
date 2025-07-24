@@ -95,3 +95,12 @@ You may also slightly reduce the defense level and give better dexterity if the 
 - 11 AC -> 1 Defense Level
 - 12 AC -> 2 Defense Level
 - So on...
+
+### Tiers of Play to DnD Levels
+
+- Novice Tier -> DnD Level 0
+- Apprentice Tier -> DnD Level 1 - 4
+- Adept Tier -> DnD Level 5 - 8
+- Expert Tier -> DnD Level 9 - 12
+- Master Tier -> DnD Level 13 - 16
+- Legendary Tier -> DnD Level 17 - 20
