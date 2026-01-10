@@ -38,7 +38,7 @@ The bearer has a rebound effect to any intentional harm proportionate to the har
 
 When the Rapture occurred on Earth, not all of humanity was brought into the folds of the heavenly afterlife. Those left behind witness the battle between Good and Evil, Armageddon.
 
-During Armageddon, The Legions of The Adversary rallied for the coming battle. Amon remained by The Adversary's side in the final battle, and was pure destruction upon the heavenly forces. Amon wielded the Spear of Destiny, a weapon capable of slaying Divine beings (Angels, Cherubim, Demons, ect.). Amon's Mark made him virtually unstoppable.
+During Armageddon, The Legions of The Adversary rallied for the coming battle. Amon remained by The Adversary's side in the final battle, and was pure destruction upon the heavenly forces. Amon wielded the Spear of Destiny, a weapon capable of slaying Divine beings (Angels, Cherubim, Demons, etc...). Amon's Mark made him virtually unstoppable.
 
 The battles of Armageddon were so great that tears in the universe's laws were created, which would eventually lead to magic (Fellcraft, Runecraft, Miracles) far into the future. Many divine beings fell to Amon, but in the end, The Dead God was victorious. The Adversary was banished to Earth for eternity along with all of his forces, and when all life had ended, he would be alone, forever. And then the Dead God disappeared from the world.
 
