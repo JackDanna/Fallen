@@ -11,7 +11,7 @@ Luckily the damage types line up very nicely with DnD damage types.
 
 * 1d6 environmental injuries -> Minor Injuries
 * 2d6 environmental injuries -> Medium Injuries
-* ect...
+* etc...
 
 ## DnD Spells to Fogent Spells
 
