@@ -335,7 +335,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |      Ink (1 ounce bottle)      |        1        |                    |  0.1  | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |       Ink Pen (Fountain)       |        1        |                    |  0.05  | 3 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 | Journal, Soft Bound, 25 Sheets |        1        |                    |   1   | 7 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|  Jug or PitcherJug or Pitcher  |        1        |                    |   4   | 2 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|  Jug or Pitcher  |        1        |                    |   4   | 2 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |        Ladder (10-foot)        |        1        |                    |   25   | 10 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |        String (10 feet)        |        1        |                    |   0   | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |        Lantern, Hooded        |        1        |                    |   2   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -442,7 +442,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |            Hunting Trap            |        1        |                                                                        |   25   |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |        Ink (1 ounce bottle)        |        1        |                                                                        |  0.1  |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |         Ink Pen (Fountain)         |        1        |                                                                        |  0.05  |  3 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|    Jug or PitcherJug or Pitcher    |        1        |                                                                        |   4   |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Jug or Pitcher    |        1        |                                                                        |   4   |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |          Ladder (10-foot)          |        1        |                                                                        |   25   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |           Lantern, Hooded           |        1        |                                                                        |   2   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |                Lock                |        1        |                                                                        |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
